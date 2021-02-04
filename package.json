@@ -4,6 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node src/index"
+    "start": "node -r dotenv/config src/index"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "kafkajs": "^1.15.0"
   }
 }
