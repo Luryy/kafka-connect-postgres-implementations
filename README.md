@@ -29,6 +29,12 @@ git clone https://github.com/Luryy/kafka-connect-postgres-implementations.git
 cd kafka-connect-postgres-implementations
 ```
 
+- Create a **.env**
+```
+Create a .env using the .env.example as model
+Alter only the HOST variable with your machine ID
+```
+
 - Start the containers
 ```
 docker-compose -f docker-compose.yml up -d 
