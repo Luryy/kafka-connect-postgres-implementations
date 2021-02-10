@@ -7,7 +7,7 @@
 _This project have the implementation of a_ [Kafka-Connect](https://docs.confluent.io/platform/current/connect/index.html) _with_ [Postgres](https://www.postgresql.org/) 
 _This application will **listen all changes** that happens at our database_
 
-I made a **tutorial** were you can see step by step how to inicialize this application. You can check at this [LINK](xxxx)
+I made a **tutorial** were you can see step by step how to inicialize this application. You can check at this [LINK](https://lucas-yuri.medium.com/kafka-consumindo-dados-do-postgres-1f91166c19bf)
 
 ## Usage
 
@@ -15,7 +15,7 @@ This application will only log the changes that happens at our postgres database
 
 ## Project Config :nut_and_bolt:
 
-_Here you could see the inicial set up of this project, but if want see the project working, I recommend to follow the_ [Tutorial](xxx) _referenced above_
+_Here you could see the inicial set up of this project, but if want see the project working, I recommend to follow the_ [Tutorial](https://lucas-yuri.medium.com/kafka-consumindo-dados-do-postgres-1f91166c19bf) _referenced above_
 
 * [Node](https://nodejs.org/en/) v-_^12.18_
 * [Yarn](https://yarnpkg.com/) v-_^1.22_
@@ -46,7 +46,7 @@ yarn install
 yarn start
 ```
 
-- Now you could see the next steps at the [Tutorial](xxx)
+- Now you could see the next steps at the [Tutorial](https://lucas-yuri.medium.com/kafka-consumindo-dados-do-postgres-1f91166c19bf)
 
 
 
